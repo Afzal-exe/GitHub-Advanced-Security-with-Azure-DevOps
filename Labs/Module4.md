@@ -104,7 +104,7 @@ __{drive}__ using a query, we can directly define it as __C__ for the string dri
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at **cloudlabs-support@spektrasystems.com**. We are available 24/7 to help you out.
 
-<validation step="35f2bb5c-ac28-4706-a14a-69bcae74d995" />
+<validation step="c4509a93-4a55-484f-9350-f8daf83cf39f" />
 
 ### Task 4: Dismissing the code scanning alerts 
 

@@ -143,7 +143,7 @@ You can follow the below steps to fix the exposed secret.
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at **cloudlabs-support@spektrasystems.com**. We are available 24/7 to help you out.
 
-<validation step="850d5a53-dfa3-456c-a94d-9e081b2185cf" />
+<validation step="35f817be-f81f-4c9c-a955-eb94d99b41a4" />
 
 ### Task 3: Dismissing secret scanning alerts
 

@@ -183,7 +183,7 @@ When a Dependency Alert is created in **Azure DevOps > Advanced Security**, it w
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at **cloudlabs-support@spektrasystems.com**. We are available 24/7 to help you out.
 
-<validation step="f36e777d-dc2f-42c3-9afe-e54c2d9eff60" />
+<validation step="caec7cc7-8ec4-4411-8c2f-6225d0eadafa" />
 
 ### Task 4: Dismissing dependency scanning alerts
 

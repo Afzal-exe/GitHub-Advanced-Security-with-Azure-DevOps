@@ -62,7 +62,7 @@ In this lab, you will perform the following:
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at **cloudlabs-support@spektrasystems.com**. We are available 24/7 to help you out.
 
-<validation step="c52850e5-7c62-4d01-a624-175043de84b6" />
+<validation step="6ddd5b37-eade-4a40-b658-b41949e1fc97" />
 
 ### Task 2: Understanding your DevOps security (Read-Only)
 
