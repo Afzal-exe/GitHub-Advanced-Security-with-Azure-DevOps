@@ -2,7 +2,6 @@
     {
       "Name": "GitHub Advanced Security with Azure DevOps",
       "Language": "English",
-      "BaseURL": "https://github.com/CloudLabs-MOC/GitHub-Advanced-Security-with-Azure-DevOps",
       "Files": [
         {
           "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/GitHub-Advanced-Security-with-Azure-DevOps/guided-labs/Labs/gettingstarted-v2.md",
