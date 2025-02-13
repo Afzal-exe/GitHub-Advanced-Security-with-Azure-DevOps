@@ -1,5 +1,4 @@
 # Lab 01: Configuring GitHub Advanced Security in Azure DevOps 
-
 ### Estimated Duration: 45 minutes
 
 In this lab, we configure GitHub Advanced Security (GHAS) within Azure DevOps, enabling enhanced security measures and permissions for the eShopOnWeb project. We set up billing, activate Advanced Security, and establish permissions for managing security alerts.
@@ -10,6 +9,10 @@ In this lab, you will perform:
 - Task 1: Sign up and configure the eShopOnWeb team project in Azure DevOps
 - Task 2: Enable Advanced Security from the portal
 - Task 3: Understand and Manage Advanced Security Permissions
+
+<!-- ## Architecture Diagram
+
+  ![AD](media/ard01.png) -->
 
 ## Task 1: Sign up and configure the eShopOnWeb team project in Azure DevOps
 
@@ -172,7 +175,7 @@ In this task, you will create a Personal Access Token (PAT) in Azure DevOps and 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at **cloudlabs-support@spektrasystems.com**. We are available 24/7 to help you out.
 
-<validation step="79e77aae3-8e51-414d-80c5-a9dbeab866d0" />
+<validation step="719b12ff-b146-4cc6-b0e3-b834f797d9b1" />
 
 ## Task 2: Enable Advanced Security from Portal
 
