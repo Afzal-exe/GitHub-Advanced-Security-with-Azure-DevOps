@@ -175,7 +175,7 @@ In this task, you will create a Personal Access Token (PAT) in Azure DevOps and 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at **cloudlabs-support@spektrasystems.com**. We are available 24/7 to help you out.
 
-<validation step="719b12ff-b146-4cc6-b0e3-b834f797d9b1" />
+<validation step="9e77aae3-8e51-414d-80c5-a9dbeab866d0" />
 
 ## Task 2: Enable Advanced Security from Portal
 
