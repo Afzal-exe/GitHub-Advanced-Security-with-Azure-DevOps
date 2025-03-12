@@ -82,7 +82,7 @@ In this lab, you will perform:
    https://azuredevopsdemogenerator.azurewebsites.net/
    ```
 
-   ![allow-permissions](media/march12-9.png)
+   ![allow-permissions](media/mar12-9.png)
 
 1. Since authentication is disabled, follow below steps to create the project
 
@@ -101,7 +101,7 @@ In this lab, you will perform:
     | Name | **Demogenerator (1)** |
     | Scopes | **full access (2)** |
 
-    ![allow-permissions](media/march12-1.png)
+    ![allow-permissions](media/mar12-1.png)
 
 1. Once you've generated the token, click on the **Copy** icon to the right of the secret value in the notepad. Once copied, click on **Close**.
 
@@ -117,26 +117,26 @@ In this lab, you will perform:
 
 1. Select **Clone a repository** option from the Get started
 
-    ![Dependencies](media/march12-2.png)
+    ![Dependencies](media/mar12-2.png)
 
 1. Provide the below URL (1) for Repository location and select **Clone (2)**
 
    ```
    https://github.com/microsoft/AzDevOpsDemoGenerator/
    ```
-    ![Dependencies](media/march12-3.png)
+    ![Dependencies](media/mar12-3.png)
 
 1. Switch to **Solution Explorer (1)**, right-click on **ADOGenerator (2)** project, and select **Set as Starer Project (3)**
 
-    ![Dependencies](media/march12-4.png)
+    ![Dependencies](media/mar12-4.png)
 
 1. Right-click on the **ADOGenerator (1)** solution file and select **Build solution (2)**.
 
-    ![Dependencies](media/march12-5.png)
+    ![Dependencies](media/mar12-5.png)
 
 1. Wait for the build to complete (1), then select **Start** from the top menu to run the project.
 
-    ![Dependencies](media/march12-6.png)
+    ![Dependencies](media/mar12-6.png)
 
 1. When prompted, enter the following details to create the **eShopOnWeb** project in your Azure DevOps organization.
 
@@ -148,11 +148,11 @@ In this lab, you will perform:
    |Enter your Azure Devops Personal access token | Copy and paste the **PAT Token** from the notepad |
    |Enter the new project name | Enter **eShopOnWeb** |
 
-    ![Dependencies](media/march12-7.png)
+    ![Dependencies](media/mar12-7.png)
 
 1. You can go to your organization to confirm that the project was created once you see the Project created successfully message.
  
-    ![Dependencies](media/march12-8.png)
+    ![Dependencies](media/mar12-8.png)
 
 ### Remove Branch Policy
 
