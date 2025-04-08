@@ -126,11 +126,11 @@ In this lab, you will perform:
    ```
     ![Dependencies](media/mar12-3.png)
 
-1. Switch to **Solution Explorer (1)**, right-click on **ADOGenerator (2)** project, and select **Set as Starer Project (3)**
+1. Switch to **Solution Explorer (1)**, right-click on **ADOGenerator (2)** project, and select **Set as Startup Project (3)**
 
     ![Dependencies](media/mar12-4.png)
 
-1. Right-click on the **ADOGenerator (1)** solution file and select **Build solution (2)**.
+1. Right-click on the **ADOGenerator (1)** solution file and select **Build (2)**.
 
     ![Dependencies](media/mar12-5.png)
 
