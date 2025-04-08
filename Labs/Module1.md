@@ -125,7 +125,7 @@ In this lab, you will perform:
    https://github.com/microsoft/AzDevOpsDemoGenerator/
    ```
     ![Dependencies](media/mar12-3.png)
-   > **Note:** If you are unable to see the **Clone (2)** button clearly, try adjusting your screen or browser **zoom settings** (e.g., press `Ctrl + -` to zoom out or `Ctrl + 0` to reset zoom) to make the option visible.
+   > **Note:** If you are unable to see the **Clone (2)** button clearly, try adjusting your screen or browser **zoom settings** to make the option visible.
 
 1. Switch to **Solution Explorer (1)**, right-click on **ADOGenerator (2)** project, and select **Set as Startup Project (3)**
 
